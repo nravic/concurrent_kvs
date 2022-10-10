@@ -1,4 +1,4 @@
-# Goncurrent KVS 
+# concurrent_kvs
 
 ## Description
 A simple goroutine (and thread)-safe key value store using generics that supports concurrent reads and writes. Primarily built to support heavily read-skewed applications.
